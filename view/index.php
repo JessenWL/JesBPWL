@@ -147,7 +147,7 @@ if(!isset($_SESSION['access_token'])){
 						<th class="column100 column3" data-column="column3"></th>
 						<th class="column100 column4" data-column="column4"></th>
 						<th class="column100 column5" data-column="column5"></th>
-						<th class="column100 column12" data-column="column12">Made By Jessen Wind Lim - 1TIE</th>
+						<th class="column100 column12" data-column="column12">Made By Boby Hartanto - 1TIE</th>
 <!--===============================================================================================-->
 					</tr>
 				</thead>
