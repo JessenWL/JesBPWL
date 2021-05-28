@@ -1,0 +1,15 @@
+{
+    "name": "1tie/jes",
+    "description": "Projek composer",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jessen Wind Lim",
+            "email": "Jessen20ti@mahasiswa.pcr.ac.id"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.46",
+        "google/apiclient": "^2.9"
+    }
+}
