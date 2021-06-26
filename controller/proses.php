@@ -1,5 +1,6 @@
 <?php
 include '../model/database.php';
+
 $db = new database();
 
 $aksi = $_GET['aksi'];
